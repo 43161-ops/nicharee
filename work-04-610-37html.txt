@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html land=''th'' >
+<head>
+<title>work 4 html lists</title>
+<meta charset=''utf-8''>
+</head>
+<body>
+<ul>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+
+<ul type=''circle''>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+
+<ul type=''square''>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+
+<ul type=''none''>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+-------------------------------------------
+<ol>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+
+<ol type=''a''>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+
+<ol type=''i''>
+<li>มะม่วง</li>
+<li>มะปราง</li>
+<li>มะไฟ</li>
+</ul>
+-----------------------------
+<dl>
+<dt>มะม่วง</dt>
+<dd>มะม่วง (ชื่อวิทยาศาสตร์: Mangifera Tndica) ซึ่งเป้นผลไม้
+เมื่องร้อนในวงศ์ Anacardiaceae </dd>
+</dl>
+
+
+
+</body>
+</html>
